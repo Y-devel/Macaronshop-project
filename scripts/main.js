@@ -2,11 +2,11 @@ const products=[
  {id:'heart',name:'Сердце',description:'24 нежных макаронс в коробке в виде сердца. Для тех, кого любите.',price:2800,badge:'БЕСТСЕЛЛЕР',image:'https://images.unsplash.com/photo-1569864358642-9d1684040f43?auto=format&fit=crop&w=800&q=85'},
  {id:'beauty',name:'Красота спасёт мир',description:'Набор из 15 макаронс с разными вкусами, цветами и настроением.',price:750,badge:'ПОПУЛЯРНОЕ',image:'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=800&q=85'},
  {id:'round',name:'Круглый набор',description:'40 макаронс в круглой коробочке — персональный дизайн и любимые вкусы.',price:3900,badge:'ДЛЯ ПРАЗДНИКА',image:'https://images.unsplash.com/photo-1558326567-98ae2405596b?auto=format&fit=crop&w=800&q=85'},
- {id:'garden',name:'Набор на 9',description:'Набор из девяти макаронс с нежным цветочным декором.',price:950,badge:'НЕЖНОСТЬ',image:'https://images.unsplash.com/photo-1564419431636-124d9e7c0eab?auto=format&fit=crop&w=800&q=85'},
+ {id:'garden',name:'Набор на 9',description:'Набор из девяти макаронс с нежным цветочным декором.',price:950,badge:'НЕЖНОСТЬ',image:'https://www.napoleoncake.ru/upload/iblock/c5e/k6nymth30g4gnx663ygqq2jl5o9wxtsy.jpg'},
  {id:'classics',name:'Набор на 16',description:'Любимая классика вкусов в праздничной подарочной коробке.',price:1500,badge:'КЛАССИКА',image:'https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&w=800&q=85'},
  {id:'party',name:'Сладкий праздник',description:'Большая коробка ассорти для друзей, семьи и важных моментов.',price:2500,badge:'ДЛЯ КОМПАНИИ',image:'https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?auto=format&fit=crop&w=800&q=85'},
  {id:'berry',name:'Ягодная история',description:'Яркое ассорти с натуральными ягодными вкусами.',price:1800,badge:'НОВИНКА',image:'https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?auto=format&fit=crop&w=800&q=85'},
- {id:'vanilla',name:'Ванильное облако',description:'Мягкие сливочные ноты, воздушная меренга и миндаль.',price:1200,badge:'НЕЖНЫЙ ВКУС',image:'https://images.unsplash.com/photo-1514516870926-20598964d1b1?auto=format&fit=crop&w=800&q=85'},
+ {id:'vanilla',name:'Ванильное облако',description:'Мягкие сливочные ноты, воздушная меренга и миндаль.',price:1200,badge:'НЕЖНЫЙ ВКУС',image:'https://homemadecooks.com/wp-content/uploads/2025/04/cloud-puff-dessert.webp'},
  {id:'gift',name:'Коробка комплиментов',description:'Миниатюрный подарок, полный заботы и натурального вкуса.',price:1600,badge:'ПОДАРОК',image:'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85'}
 ];
 const productGrid=document.querySelector('#product-grid');
